@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/192.png',
 
   // The name of your website. Present alongside your icon.
-  title: "AlphaBeta's OneDrive",
+  title: "屠虫少年的OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/share',
@@ -35,7 +35,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '2022 ©️  <a href="https://whitehole.dev/" target="_blank" rel="noopener noreferrer">whitehole.dev</a> ❤ Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>',
+    '2022 ©️  <a href="https://alphabeta.top/" target="_blank" rel="noopener noreferrer">屠虫少年</a> ❤ Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
