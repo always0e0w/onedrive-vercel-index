@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/192.png',
 
   // The name of your website. Present alongside your icon.
-  title: "White hole's OneDrive",
+  title: "AlphaBeta's OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/share',
@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'Blog',
-      link: 'https://whitehole.dev/'
+      link: 'https://alphabeta.top/'
     },
     {
       name: 'Telegram',
